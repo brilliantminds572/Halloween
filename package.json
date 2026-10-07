@@ -1,0 +1,14 @@
+{
+  "name": "halloween-affiliate-landing",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Config-driven Amazon Associates landing page for Pinterest traffic. Edit config/*.json, deploy on Vercel.",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node build.mjs && npx serve dist"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
