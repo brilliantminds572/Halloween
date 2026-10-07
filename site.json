@@ -1,0 +1,149 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+
+  "seo": {
+    "title": "Spooky Halloween Finds 2026 | Decor, Costumes, Candy & Spooky Science",
+    "description": "Hand-picked Halloween decor, costumes, candy and spooky science kits. Shop top-rated picks on Amazon before October 31.",
+    "siteUrl": "",
+    "ogTitle": "Spooky Halloween Finds 2026",
+    "ogDescription": "Top-rated Halloween decor, costumes, candy & spooky science kits, all in one place.",
+    "ogImage": "halloween-hero.jpg",
+    "article": [
+      {
+        "heading": "How to choose Halloween decorations",
+        "text": "Start with lighting. Flickering LED candles, pumpkin string lights and glowing props set the mood fast and are safer than open flames. Then add texture with spider webs and skeletons for doorways, porches and mantels. Battery-powered items are the easiest to place anywhere."
+      },
+      {
+        "heading": "Easy Halloween costume ideas for kids and adults",
+        "text": "Classic looks like witches, vampires and skeletons are quick to put together and work for school parties, trick-or-treating and office events. Glow-in-the-dark pieces are a good pick for evening walks because they make kids easier to spot."
+      },
+      {
+        "heading": "Spooky science fun for curious kids",
+        "text": "Halloween is a great excuse for hands-on STEM. Potion kits, glowing crystals and skeleton models turn the holiday into a mini lab and keep kids busy for an afternoon."
+      }
+    ]
+  },
+
+  "brand": {
+    "emoji": "🎃",
+    "logoText": "Spooky",
+    "logoAccent": "Finds",
+    "headerButton": "Shop picks"
+  },
+
+  "amazon": {
+    "tag": "YOURTAG-20",
+    "domain": "www.amazon.com",
+    "buttonText": "Check price on Amazon"
+  },
+
+  "analytics": {
+    "gaId": "",
+    "pinterestTagId": ""
+  },
+
+  "pinterest": {
+    "username": "",
+    "verifyCode": "",
+    "ctaTitle": "📌 Love these ideas?",
+    "ctaText": "Follow us on Pinterest for new Halloween picks every day.",
+    "buttonText": "Follow on Pinterest"
+  },
+
+  "theme": {
+    "bg": "#120b1f",
+    "bg2": "#1c1230",
+    "card": "#231838",
+    "line": "#33224f",
+    "ink": "#f6f1ff",
+    "mute": "#b9aad6",
+    "accent": "#ff7a1a",
+    "accent2": "#ffa24d",
+    "highlight": "#7CFF6B",
+    "onAccent": "#1a0d00",
+    "buy": "#ffd814",
+    "buyText": "#111111"
+  },
+
+  "announce": {
+    "enabled": true,
+    "headline": "🎃 Best Halloween Decor, Costumes & Spooky Science Kits of 2026",
+    "subline": "Top-rated picks, order before October 31 🦇"
+  },
+
+  "banner": {
+    "enabled": true,
+    "image": "halloween-hero.jpg",
+    "width": 1672,
+    "height": 940,
+    "alt": "Happy Halloween banner: three vintage-costumed characters with glowing jack-o'-lanterns, a lantern, a green potion flask and a violin in front of a moonlit haunted mansion",
+    "ctaText": "Shop Halloween Picks ↓",
+    "link": "#shop"
+  },
+
+  "hero": {
+    "moon": true,
+    "eyebrow": "🦇 Halloween 2026 Edition",
+    "headline": "Everything You Need for a *Spooky* Halloween",
+    "subheadline": "Hand-picked decor, costumes, candy and spooky science kits. Tap a pick and check out directly on Amazon.",
+    "ctaText": "See Top Halloween Picks",
+    "ctaLink": "#shop",
+    "trust": [
+      "✔ Trusted Amazon checkout",
+      "✔ Return policy shown on each listing",
+      "✔ Updated for 2026"
+    ]
+  },
+
+  "countdown": {
+    "enabled": true,
+    "label": "Until Halloween",
+    "date": "2026-10-31T23:59:59"
+  },
+
+  "stickyCta": {
+    "enabled": true,
+    "text": "🎃 Shop Halloween Picks",
+    "link": "#shop"
+  },
+
+  "howItWorks": {
+    "enabled": true,
+    "items": [
+      { "title": "1. Pick", "text": "Browse by category and tap a product you like." },
+      { "title": "2. Check price", "text": "You land on the Amazon page with the live price and delivery date." },
+      { "title": "3. Order early", "text": "Halloween items sell out fast. Order early for on-time delivery." }
+    ]
+  },
+
+  "faq": [
+    {
+      "q": "Do I pay more if I buy through your links?",
+      "a": "No. The price is the same as on Amazon. As an Amazon Associate I earn from qualifying purchases, at no extra cost to you."
+    },
+    {
+      "q": "How do I see the current price?",
+      "a": "Prices change often and are set by Amazon. Tap the button on any product to see the live price, shipping options and delivery date."
+    },
+    {
+      "q": "When should I order for Halloween delivery?",
+      "a": "As early as you can. Popular Halloween items can sell out in October, so check the delivery estimate on the Amazon page before you buy."
+    },
+    {
+      "q": "What if I need to return something?",
+      "a": "Return rules depend on the item and seller. Check the return policy shown on each Amazon listing before ordering."
+    }
+  ],
+
+  "disclosure": {
+    "short": "As an Amazon Associate I earn from qualifying purchases. Prices and availability are shown on Amazon and may change.",
+    "long": "Affiliate disclosure: As an Amazon Associate I earn from qualifying purchases. This means we may earn a small commission, at no extra cost to you, when you buy through links on this page.",
+    "disclaimer": "Product availability, prices and delivery dates are set by Amazon and may change at any time. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates."
+  },
+
+  "footer": {
+    "copyright": "© 2026 SpookyFinds. All rights reserved.",
+    "links": []
+  }
+}

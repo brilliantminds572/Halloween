@@ -1,0 +1,184 @@
+{
+  "_help": [
+    "Each product needs a name and description. For the Amazon link, use ONE of these (first one found wins):",
+    "  url   -> a full link, e.g. your SiteStripe short link (https://amzn.to/xxxx). Used as-is.",
+    "  asin  -> the 10-character product ID from the Amazon URL (after /dp/). Your tag is added automatically.",
+    "  query -> an Amazon search phrase. Opens search results with your tag (works with no ASIN).",
+    "Optional: image (file in /public or full URL), badge, emoji, color (card background tint), button, hidden (true to skip)."
+  ],
+  "categories": [
+    {
+      "id": "decor",
+      "emoji": "🕸️",
+      "title": "Spooky Decor",
+      "subtitle": "Turn your porch and living room into a haunted house.",
+      "products": [
+        {
+          "name": "Flameless LED Flickering Candles",
+          "description": "Safe, battery-powered candles with a realistic flicker. Perfect for mantels, windows and tables.",
+          "emoji": "🕯️",
+          "badge": "Top pick",
+          "color": "#3b1d63",
+          "asin": "",
+          "url": "",
+          "query": "halloween flameless led flickering candles",
+          "image": ""
+        },
+        {
+          "name": "Stretchable Giant Spider Web with Spiders",
+          "description": "Instantly covers doorways, bushes and fences for an abandoned-house look.",
+          "emoji": "🕸️",
+          "color": "#4a2a0a",
+          "asin": "",
+          "url": "",
+          "query": "halloween spider web decoration with spiders",
+          "image": ""
+        },
+        {
+          "name": "Light-Up Skeleton Decoration",
+          "description": "Posable skeleton with glowing eyes. A classic front-yard showstopper.",
+          "emoji": "💀",
+          "color": "#0f3b2a",
+          "asin": "",
+          "url": "",
+          "query": "halloween posable skeleton led decoration",
+          "image": ""
+        },
+        {
+          "name": "Pumpkin String Lights (Battery Powered)",
+          "description": "Warm orange glow for mantels, staircases and party tables. Timer function on most sets.",
+          "emoji": "🎃",
+          "color": "#5a2a00",
+          "asin": "",
+          "url": "",
+          "query": "halloween pumpkin string lights battery operated",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "costume",
+      "emoji": "🧙",
+      "title": "Costumes",
+      "subtitle": "Easy, comfy looks for kids and adults.",
+      "products": [
+        {
+          "name": "Witch Hat & Cape Set",
+          "description": "Quick, classic witch look. Great for school parties and trick-or-treating.",
+          "emoji": "🧙‍♀️",
+          "color": "#2a1450",
+          "asin": "",
+          "url": "",
+          "query": "witch costume hat cape set",
+          "image": ""
+        },
+        {
+          "name": "Glow-in-the-Dark Skeleton Onesie",
+          "description": "Cozy, easy to wear and highly visible after dark.",
+          "emoji": "👻",
+          "color": "#1b2a4a",
+          "asin": "",
+          "url": "",
+          "query": "glow in the dark skeleton costume",
+          "image": ""
+        },
+        {
+          "name": "Vampire Cape & Fangs Kit",
+          "description": "Dramatic collar cape plus fangs for a quick, high-impact costume.",
+          "emoji": "🧛",
+          "color": "#4a1a2a",
+          "asin": "",
+          "url": "",
+          "query": "vampire costume cape fangs kit",
+          "image": ""
+        },
+        {
+          "name": "Spooky Masquerade Mask Set",
+          "description": "Pack of masks for party groups and photo ops.",
+          "emoji": "🎭",
+          "color": "#3a3a1a",
+          "asin": "",
+          "url": "",
+          "query": "halloween masquerade mask set",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "candy",
+      "emoji": "🍬",
+      "title": "Candy & Treats",
+      "subtitle": "Stock up before the trick-or-treaters arrive.",
+      "products": [
+        {
+          "name": "Halloween Candy Variety Bulk Bag",
+          "description": "Mixed fun-size chocolates and candies for large trick-or-treat crowds.",
+          "emoji": "🍫",
+          "color": "#5a2a00",
+          "asin": "",
+          "url": "",
+          "query": "halloween candy variety pack bulk",
+          "image": ""
+        },
+        {
+          "name": "Pumpkin Trick-or-Treat Bucket",
+          "description": "Reusable pumpkin pail that doubles as a party bowl.",
+          "emoji": "🎃",
+          "color": "#2a1450",
+          "asin": "",
+          "url": "",
+          "query": "halloween pumpkin trick or treat bucket",
+          "image": ""
+        },
+        {
+          "name": "Halloween Cupcake Toppers & Liners",
+          "description": "Spooky baking kit for party desserts and classroom treats.",
+          "emoji": "🧁",
+          "color": "#0f3b2a",
+          "asin": "",
+          "url": "",
+          "query": "halloween cupcake toppers liners baking kit",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "emoji": "🧪",
+      "title": "Spooky Science",
+      "subtitle": "Halloween-themed STEM fun that kids actually enjoy.",
+      "products": [
+        {
+          "name": "Halloween Slime & Potion Science Kit",
+          "description": "Make bubbling potions, glowing slime and more with kid-friendly experiments.",
+          "emoji": "🧫",
+          "color": "#0f4a2a",
+          "asin": "",
+          "url": "",
+          "query": "halloween science kit kids potion slime",
+          "image": ""
+        },
+        {
+          "name": "Glow-in-the-Dark Crystal Growing Kit",
+          "description": "Grow your own glowing crystals and learn how crystallisation works.",
+          "emoji": "🔬",
+          "color": "#1b3a4a",
+          "asin": "",
+          "url": "",
+          "query": "glow in the dark crystal growing kit",
+          "image": ""
+        },
+        {
+          "name": "Skeleton Anatomy Building Kit",
+          "description": "Build and learn the human skeleton, a spooky season STEM project.",
+          "emoji": "🦴",
+          "color": "#3a1d63",
+          "asin": "",
+          "url": "",
+          "query": "skeleton anatomy model building kit kids stem",
+          "image": ""
+        }
+      ]
+    }
+  ]
+}
